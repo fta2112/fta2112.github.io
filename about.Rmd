@@ -2,5 +2,5 @@
 title: "About this site"
 ---
 
-This site was made using RStudio, and is hosted on Github. Source code can be found at [my Github](https://github.com/fta2112/fta2112.github.io).
+This site was made using RStudio, and is hosted on Github. Source code can be found on [my profile](https://github.com/fta2112/fta2112.github.io).
 

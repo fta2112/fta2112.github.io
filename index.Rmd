@@ -1,10 +1,9 @@
 ---
-title: "Welcome to my home."
+title: "Thanks For stopping by. Have a look around."
 ---
 
-# Feben Asefaha
-## MS Student
+Hi, I'm Feben Asefaha. I'm currently a Master's student in Biostatistics at [Columbia University](https://www.mailman.columbia.edu/become-student/departments/biostatistics).
 
+Before that, I worked as a vector biologist for New York City's [Health Department](http://www1.nyc.gov/site/doh/index.page).
 
-
-lorem ipsum....
+I obtained my BS from Cornell University in 2015. 
