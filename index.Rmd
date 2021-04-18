@@ -1,9 +1,22 @@
 ---
-title: "Thanks For stopping by. Have a look around."
+title: "Thanks for stopping by. Have a look around."
 ---
 
-Hi, I'm Feben Asefaha. I'm currently a Master's student in Biostatistics at [Columbia University](https://www.mailman.columbia.edu/become-student/departments/biostatistics).
 
-Before that, I worked as a vector biologist for New York City's [Health Department](http://www1.nyc.gov/site/doh/index.page).
 
-I obtained my BS from Cornell University in 2015. 
+
+Hi, I'm Feven Asefaha. 
+
+My professional goals center around pulling insights and analyzing data in service of helping organizations improve health outcomes more efficiently. To that end, I have experience utilizing a large range of tools (R, SAS/SQL, BI software) to prepare, communicate, and engage audiences with data. Like any scientist, I value collaborating with and learning from my peers.
+
+Most recently, I worked as a Healthcare Data Analyst at Milliman's Health Practice in NYC. While there, I worked on product, as well as several additional data analytics projects, with some resulting in [publication](https://www.milliman.com/en/insight/how-current-part-d-risk-scores-could-interact-with-pointofsale-rebates).
+
+Before that, I was a Master's student in the Biostatistics department at Columbia's Mailman School of Public Health. I was also a biologist with New York City's [Department of Health](http://www1.nyc.gov/site/doh/index.page). My master's project looked at the occurrence of waterborne illness among consumers of [SWN](https://www.safewaternetwork.org/) sustainable water systems. 
+ 
+I obtained my BS from Cornell University in 2015, with research experience in collective behavior and biochemistry, and an internship in content development at the [Lab of O](https://www.birds.cornell.edu/home/).
+
+Born and raised in [The Bronx](https://en.wikipedia.org/wiki/List_of_people_from_the_Bronx).
+
+
+
+
