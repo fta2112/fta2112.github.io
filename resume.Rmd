@@ -1,11 +1,10 @@
 ---
-title: Samples 
+title: Resume
 ---
 
-CMS provides aggregated inpatient PUF files 
-Here is a dashboard incorporating Shiny elements that lets users compare nationwide costs to individual states. This allows users to see what DRGs and more, broadly, what MDCs are associated with the highest costs per state. but also maps each care facility per state. Hover text includes allowed amounts, as well as
+Page under construction. Please visit again soon :)
 
-A mapping feature also demonstrates inpatient facilities per state, as included in the data. Facility information, along with average expenditures, are also provided when you hover over a pin. 
+In the meantime, add me on [LinkedIn](https://www.linkedin.com/in/asefaha/)!
 
 
 

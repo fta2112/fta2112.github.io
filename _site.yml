@@ -7,8 +7,10 @@ navbar:
       href: about.html
     - text: Resume
       href: resume.html
+    - text: Samples
+      href: samplework.html
     - icon: fa-envelope fa-lg
-      href: mailto:<fta2112@cumc.columbia.edu>
+      href: mailto:<fta2112@caa.columbia.edu>
     - icon: fa-github fa-lg
       href: http://github.com/fta2112/
 output:
